@@ -9,7 +9,7 @@ Sistem kasih self-service yang mana customer bisa langsung memasukkan item yang 
 5. Program harus memiliki antarmuka pengguna yang mudah dipahami dan digunakan oleh pengguna tanpa bantuan dari kasir.
 6. Program harus dapat berjalan dengan stabil dan efisien, tanpa terjadi kesalahan atau kerusakan yang mengganggu proses transaksi.
 
-#Alur Program
+# Alur Program
 1. Program akan memulai dengan menampilkan pesan "Selamat datang di Self-Service Kasir"
 2. Pengguna akan diminta untuk memasukkan nama, jumlah, dan harga item yang akan dibeli lalu akan dimasukkan ke dalam keranjang belanja.
 3. Setelah itu, program akan menampilkan keranjang belanja item yang akan dibeli beserta total harga belanjaan sejauh ini.
