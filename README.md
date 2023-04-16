@@ -1,5 +1,5 @@
 # Super-Cashier-Project
-Sistem kasih self-service yang mana customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga yang dibeli dan fitur yang lain
+Sistem kasih self-service yang mana customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, harga item yang dibeli dan fitur yang lain
 
 # Requirements
 1. Pengguna harus dapat memilih produk yang ingin dibeli dan menempatkan produk tersebut ke dalam keranjang belanja secara mandiri.
