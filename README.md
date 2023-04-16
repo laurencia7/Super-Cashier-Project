@@ -18,6 +18,9 @@ Sistem kasih self-service yang mana customer bisa langsung memasukkan item yang 
 6. Jika sudah yakin dengan belanjaan yang ingin dibeli, pengguna dapat memilih menu "Bayar". program akan menampilkan list item pada keranjang belanja serta total harga keseluruhan.
 7. Setelah selesai, program akan menampilkan pesan "Terima kasih telah menggunakan program ini".
 
+# Deskripsi Task
+Module 'main.py' berisi code super cashier sederhana.
+
 # Hasil Test Case
 1. Transaksi input item
 
