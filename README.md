@@ -46,5 +46,5 @@ Sistem kasih self-service yang mana customer bisa langsung memasukkan item yang 
     
 # Future Work
 
-1. Membuat program terbagi kebeberap file .py dan class.
+1. Membuat program terbagi kebeberapa file .py dan class.
 2. Perbaikan lainnya yang mungkin ditemukan setelah program digunakan oleh beberapa user.
